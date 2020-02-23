@@ -1,0 +1,55 @@
+.container{
+    margin-bottom: 100px;
+}
+
+.carousel-item{
+    padding: 10px 50px;
+    background-color:#FEEAE9 ;
+    border-radius: 7px;
+}
+
+.price{
+    color: #EB337B;
+}
+.buy{
+    background-image: linear-gradient(to top, #E54C8A, #EC1A66);
+    color: white;
+    border: none;
+    padding: 10px 25px;
+    border-radius: 7px;
+}
+
+.watch, .bag, .shoes{
+    padding: 10px 20px;
+    border-radius: 7px;
+    color: white;
+}
+.watch{
+    background-image: linear-gradient(to left,#F4C91A, #EE942D);
+}
+
+.bag{
+    background-image: linear-gradient(to left, #EB337B , #EC327B);
+}
+
+.shoes{
+    background-image: linear-gradient(to left,#3710F7, #4179FF);
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.contact{
+    background-color: #FBE7E8;
+    padding: 50px;
+    border-radius: 7px;;
+}
+
+input[type=text]{
+    border: none;
+    padding: 10px 50px;
+}
+
+
